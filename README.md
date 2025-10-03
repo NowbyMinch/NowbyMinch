@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NowbyMinch
-- 👀 I’m interested in programming and neuroscience
+- 👀 I’m interested in programming and science.
 - 🌱 I’m currently learning React, Typescript, Next.js
 - I’m looking to collaborate on open souce projects and collaborative learing 
