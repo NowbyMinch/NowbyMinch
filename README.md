@@ -79,36 +79,6 @@ Mesmo jovem, já tive experiências **remuneradas** com desenvolvimento front-en
 
 </div>
 
----
-
-<!-- ======================================= -->
-<!-- ============ GITHUB STATS ============= -->
-<!-- ======================================= -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=react)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=react)
-
-</div>
-
----
-
-<!-- ======================================= -->
-<!-- ============ COMMIT GRAPH ============= -->
-<!-- ======================================= -->
-
-## 🔥 Gráfico de Commits (Snake Animation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NowbyMinch/NowbyMinch/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 <!-- ======================================= -->
 <!-- ============ CONTACT ================== -->
 <!-- ======================================= -->
