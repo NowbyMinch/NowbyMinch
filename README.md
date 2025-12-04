@@ -31,22 +31,6 @@ Me especializo em:
 
 Também concluí completamente o curso **CS50 de Harvard**, aprofundando algoritmos, C, Python, SQL e estruturas de dados.
 
----
-
-## 📌 About me (EN)
-
-I am a front-end developer with real-world experience building products — including **ThinkSpace**, an academic collaboration platform fully developed by me on the front-end, which earned **2nd place in Earth & Exact Sciences (Technical Level)** at **FEMIC** and qualified me for **FICP in Minas Gerais**.
-
-I specialize in:
-- ⚡ Modern development with **React**, **Next.js**, **TailwindCSS**
-- ⚡ Front-end ↔ back-end integration
-- ⚡ Clean, fluid and functional UI/UX
-- ⚡ Beautiful animations with Framer Motion
-
-I also completed the full **Harvard CS50** computer science course.
-
----
-
 <!-- ======================================= -->
 <!-- ============ EXPERIENCE =============== -->
 <!-- ======================================= -->
