@@ -46,8 +46,8 @@ Também concluí completamente o curso **CS50 de Harvard**, aprofundando algorit
 🛠 Tecnologias usadas:
 - Next.js  
 - React  
-- TailwindCSS  
-- Supabase / Firebase (se quiser adiciono)  
+- TailwindCSS
+- TypeScript
 - Framer Motion  
 
 ---
@@ -104,7 +104,7 @@ Mesmo jovem, já tive experiências **remuneradas** com desenvolvimento front-en
 ## 🔥 Gráfico de Commits (Snake Animation)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/NowbyMinch/NowbyMinch/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -116,10 +116,10 @@ Mesmo jovem, já tive experiências **remuneradas** com desenvolvimento front-en
 ## 📬 Contato
 
 <div align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:guilhermemr2011j3@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEULINKEDIN">
+  <a href="https://www.linkedin.com/in/guilherme-monteiro-7a1359247">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge"/>
   </a>
 </div>
