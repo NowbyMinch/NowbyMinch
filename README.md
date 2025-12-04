@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front-End-Developer-blue?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Front--End_Developer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CS50-Harvard-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FEMIC-2° Lugar Exatas-9cf?style=for-the-badge"/>
 </p>
