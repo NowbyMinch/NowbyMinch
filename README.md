@@ -73,10 +73,9 @@ Mesmo jovem, já tive experiências **remuneradas** com desenvolvimento front-en
 | Categoria | Ferramentas |
 |----------|-------------|
 | **Front-End** | React • Next.js • TailwindCSS • Vite • Shadcn/UI |
-| **Back-End Basics** | Node • Express • Firebase • Supabase |
+| **Back-End** | **Flask • Python • SQL (MySQL, SQLite) • REST APIs** |
 | **CS50 Stack** | C • Python • SQL • Git • Data Structures |
 | **Design** | Figma • Framer Motion |
-| **Extras** | Zustand • Axios • REST APIs |
 
 </div>
 
