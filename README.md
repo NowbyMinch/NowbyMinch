@@ -39,6 +39,7 @@ Também concluí completamente o curso **CS50 de Harvard**, aprofundando algorit
 
 ### 🧠 ThinkSpace — Front-end Lead Developer  
 Projeto criado com colegas, com o **front-end desenvolvido inteiramente por mim**, incluindo integrações com o back-end.  
+
 ⬆️ Esse projeto me garantiu:  
 - 🥈 **2º lugar na FEMIC Jovem (Ciências Exatas e da Terra – Técnico)**  
 - 🎫 **Credencial para a FICP — Minas Gerais**
