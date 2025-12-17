@@ -21,7 +21,7 @@
 
 ## 📌 Sobre mim (PT-BR)
 
-Sou desenvolvedor front-end com experiência real construindo produtos, incluindo meu próprio projeto — **ThinkSpace**, uma plataforma educacional colaborativa que me levou ao **2º lugar em Ciências Exatas e da Terra (Ensino Técnico)** na **FEMIC Jovem**, além de me garantir **credencial para a FICP em Minas Gerais**.
+Sou desenvolvedor full-stack com experiência real construindo produtos, incluindo meu próprio projeto — **ThinkSpace**, uma plataforma educacional colaborativa que me levou ao **2º lugar em Ciências Exatas e da Terra (Ensino Técnico)** na **FEMIC Jovem**, além de me garantir **credencial para a FICP em Minas Gerais**.
 
 Me especializo em:
 - ⚡ Desenvolvimento moderno com **React**, **Next.js**, **TailwindCSS**
