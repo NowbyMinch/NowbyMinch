@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Olá, eu sou <strong>Guilherme Monteiro</strong></h1>
 <p align="center">
-  Desenvolvedor Front-End • Estudante de Ciência & Tecnologia • Cocriador do ThinkSpace
+  Desenvolvedor de Software Full-Stack • Estudante de Ciência & Tecnologia • Cocriador do ThinkSpace
 </p>
 
 <p align="center">
