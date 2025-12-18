@@ -18,7 +18,7 @@
 
 ## 📌 Sobre mim
 
-Sou **desenvolvedor full-stack** com experiência prática no desenvolvimento de produtos digitais e forte interesse por **ciência e tecnologia**, especialmente **física, matemática, biologia e neurociência**.
+Sou **desenvolvedor full-stack** com experiência prática no desenvolvimento de produtos digitais e forte interesse por **ciência e tecnologia**, especialmente **física, astronomia, matemática, biologia e neurociência**.
 
 Sou **cocriador e Front-end Lead Developer do ThinkSpace**, uma plataforma educacional colaborativa. Fui responsável por todo o desenvolvimento do front-end e pela **integração com o back-end**, atuando desde a concepção até a versão final do projeto.
 
