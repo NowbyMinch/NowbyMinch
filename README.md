@@ -2,7 +2,7 @@
 <!-- ===================== HEADER ==================== -->
 <!-- ================================================= -->
 
-<h1 align="center">👋 Guilherme Monteiro</h1>
+<h1 align="center"> Guilherme Monteiro</h1>
 
 <p align="center">
   Desenvolvedor de Software Full-Stack • Estudante de Ciência & Tecnologia • Cocriador do ThinkSpace
@@ -30,7 +30,7 @@ Também concluí integralmente o **CS50 (Harvard)**, fortalecendo minha base em 
 
 ---
 
-## 🚀 Experiências
+##  Experiências
 
 ### 🧠 ThinkSpace — Front-end Lead Developer
 Projeto educacional desenvolvido em equipe, com **responsabilidade total pelo front-end** e **conexão com o back-end**.
@@ -53,7 +53,7 @@ Projeto educacional desenvolvido em equipe, com **responsabilidade total pelo fr
 
 ---
 
-### 💼 Trabalhos independentes
+### Trabalhos independentes
 Experiências **remuneradas** com desenvolvimento front-end, entregando:
 - Sites responsivos
 - Dashboards
@@ -65,7 +65,7 @@ Experiências **remuneradas** com desenvolvimento front-end, entregando:
 
 ## 🛠 Tecnologias & Ferramentas
 
-### 🎨 Front-end
+### Front-end
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
@@ -76,7 +76,7 @@ Experiências **remuneradas** com desenvolvimento front-end, entregando:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 </p>
 
-### ⚙️ Back-end & Dados
+### Back-end & Dados
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask"/>
@@ -85,7 +85,7 @@ Experiências **remuneradas** com desenvolvimento front-end, entregando:
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
 </p>
 
-### 🧠 Fundamentos & Ferramentas
+### Fundamentos & Ferramentas
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
@@ -106,4 +106,4 @@ Experiências **remuneradas** com desenvolvimento front-end, entregando:
   </a>
 </p>
 
-<p align="center">✨ Obrigado pela visita ✨</p>
+<p align="center"> Obrigado pela visita </p>
