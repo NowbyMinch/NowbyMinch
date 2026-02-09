@@ -33,7 +33,13 @@ Também concluí integralmente o **CS50 (Harvard)**, fortalecendo minha base em 
 ##  Experiências
 
 ### 🧠 ThinkSpace — Front-end Lead Developer
-Projeto educacional desenvolvido em equipe, com **responsabilidade total pelo front-end** e **conexão com o back-end**.
+Como um dos criadores originais, tive **responsabilidade total pelo front-end** e **integração com o back-end**, liderando a concepção do ecossistema social e a implementação técnica da camada de cliente.
+
+**Destaques Técnicos:**
+- **Ideação de Produto:** Concepção da lógica de salas de estudo, feed social e engajamento.
+- **Integração E2E:** Conexão integral do Front-end com Back-end via **APIs REST** e fluxos de **IA**.
+- **Arquitetura Escalável:** Implementação de componentes reutilizáveis (**Atomic Design**) e gerenciamento de **estados complexos**.
+- **UX Multiplataforma:** Interface 100% responsiva focada em alta performance e usabilidade.
 
 **Atuações principais:**
 - Arquitetura de interfaces
