@@ -23,17 +23,29 @@ Sou **cocriador e Front-end Lead Developer do ThinkSpace**, uma plataforma educa
 
 ---
 
-## 🚀 Experiências e Projetos Reais
+## 🚀 Experiências e Projetos de Alto Impacto
 
-### 🧠 ThinkSpace — Lead Developer (Front-end & Integração)
-Plataforma gamificada focada em comunidades de estudo e automação de conteúdo.
-* **Destaque:** Implementação completa do ecossistema social e integração com APIs de **Inteligência Artificial (Hugging Face)**.
-* **Arquitetura:** Criação de componentes escaláveis e gestão de fluxos de dados complexos entre o cliente e o servidor.
+### 🧠 ThinkSpace — Co-criador & Lead Developer
+Plataforma educacional completa que utiliza IA para personalização do aprendizado. Fui responsável pela arquitetura do Front-end e pela orquestração do fluxo de dados com o Back-end.
 
-### 💼 Projetos Remunerados
-* **Sistema de Pré-Matrícula (Colégio SEICE):** Desenvolvi o primeiro sistema digital de matrículas da instituição, processando **300+ submissões reais** e integrando dados com a API SPONTE via server-side.
-* **Cost Planner (Simulador Financeiro):** Aplicação para simulação de folha de pagamento escolar, lidando com lógica complexa de cálculos financeiros e exportação de relatórios.
-* **Portfólio Médico:** Landing page de alta performance otimizada para conversão e SEO.
+**Funcionalidades de Engenharia:**
+- **IA Generativa (NLP):** Geração automatizada de materiais de estudo (flashcards, quizzes e resumos) a partir de tópicos ou **processamento de arquivos PDF**.
+- **Analytics & Data Vis:** Sistema de métricas de rendimento com monitoramento semanal, taxas de acerto/erro e produtividade diária.
+- **Ecossistema Social:** Rede colaborativa com compartilhamento de materiais gerados, feed dinâmico, sistema de notificações e organização por tópicos de interesse.
+- **Gestão de Tempo:** Agenda integrada com sistema de lembretes e notificações para o usuário.
+
+**Stack:** `Next.js` • `TypeScript` • `Hugging Face API` • `TailwindCSS` • `MySQL`.
+
+---
+
+### 💼 Experiência com Projetos Reais (Remunerados)
+
+* **Sistema de Pré-Matrícula (Colégio SEICE):** * Automação do fluxo de ingresso escolar. 
+    * **Impacto:** 300+ submissões reais em 15 dias.
+    * **Técnico:** Integração complexa com a **API SPONTE**, autenticação segura e proteção de dados sensíveis (LGPD).
+* **Cost Planner (Simulador Financeiro):** * Dashboard para simulação de folha de pagamento escolar.
+    * **Técnico:** Lógica de negócio pesada no client-side para cálculos tributários e trabalhistas, com exportação para PDF/CSV.
+* **Medical Portfolio:** * Landing page otimizada com foco em Core Web Vitals e SEO.
 
 ---
 
