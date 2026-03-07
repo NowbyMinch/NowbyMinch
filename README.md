@@ -1,58 +1,56 @@
 <h1 align="center"> Guilherme Monteiro</h1>
 
 <p align="center">
-  <strong>Software Developer Full-Stack</strong> • Entusiasta de Ciência & Tecnologia • Premiado Nacionalmente
+  <strong>Software Developer Full-Stack</strong> • Cocriador do ThinkSpace • Premiado Nacionalmente
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack_Developer-6F42C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/FEMIC-2° Lugar Exatas-2DA44E?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📌 Perfil Profissional
+## 📌 Sobre mim
 
-Desenvolvedor Full-Stack focado na criação de soluções robustas e escaláveis. Minha trajetória combina autonomia técnica com a experiência real de colocar produtos em produção e validar ideias em competições nacionais. Sou movido por desafios que exigem raciocínio lógico profundo e arquitetura de software limpa.
+Sou **desenvolvedor full-stack** com experiência prática no desenvolvimento de produtos digitais e um forte interesse por **ciência e tecnologia**, especialmente física, astronomia, matemática, biologia e neurociência. Essa base científica molda minha forma de resolver problemas, priorizando lógica e eficiência.
 
----
+Sou **cocriador e Front-end Lead Developer do ThinkSpace**, uma plataforma educacional colaborativa. Fui responsável por todo o desenvolvimento da interface e pela **integração com o back-end**, atuando desde a concepção da ideia até a entrega da versão final.
 
-## 🚀 Projetos de Destaque
-
-### 🧠 ThinkSpace — Co-criador & Lead Front-end
-Plataforma educacional gamificada que integra comunidades e ferramentas de estudo.
-* 🏆 **Reconhecimento:** 2º lugar nacional em Ciências Exatas na FEMIC Jovem.
-* **Desafio Técnico:** Implementação de um ecossistema social completo (salas, feeds, rankings) e integração com modelos de **IA (Hugging Face)** para automação de conteúdos.
-* **Arquitetura:** Estruturação de interface reativa utilizando **Atomic Design**, garantindo escalabilidade e reuso de componentes em toda a aplicação.
-
-### 💼 Experiência com Projetos Reais (Remunerados)
-
-* **Sistema de Pré-Matrícula (Colégio SEICE):** Desenvolvi do zero o primeiro sistema digital de matrículas da instituição.
-    * *Resultado:* **300+ submissões reais** em 15 dias e integração total com a **API SPONTE**.
-    * *Foco:* Segurança de dados sensíveis (LGPD) e validação server-side.
-* **Cost Planner — Simulador Financeiro:** Aplicação para gestão de folha de pagamento escolar.
-    * *Foco:* Lógica complexa de cálculos financeiros, manipulação de datas e exportação de relatórios (PDF/CSV).
-* **Medical Portfolio:** Landing page focada em conversão, performance e SEO para o setor de saúde.
+🏆 **Conquistas:**
+- 🥈 **2º lugar nacional** em Ciências Exatas e da Terra (Ensino Técnico) — FEMIC Jovem.
+- 🎓 Conclusão integral do **CS50 (Harvard)**, reforçando meus fundamentos em algoritmos, C e Python.
 
 ---
 
-## 🛠 Ecossistema Técnico
+## 🚀 Experiências e Projetos Reais
 
-### Desenvolvimento & Engenharia
-* **Linguagens:** TypeScript, JavaScript, Python, C.
-* **Frameworks & Libs:** Next.js (App Router), React, NestJS, TailwindCSS, Bootstrap.
-* **Backend & Dados:** Node.js, PostgreSQL, MySQL, Prisma ORM, REST APIs.
-* **Infra & Ferramentas:** Docker, Git/GitHub, Vercel, Figma.
+### 🧠 ThinkSpace — Lead Developer (Front-end & Integração)
+Plataforma gamificada focada em comunidades de estudo e automação de conteúdo.
+* **Destaque:** Implementação completa do ecossistema social e integração com APIs de **Inteligência Artificial (Hugging Face)**.
+* **Arquitetura:** Criação de componentes escaláveis e gestão de fluxos de dados complexos entre o cliente e o servidor.
+
+### 💼 Projetos Remunerados
+* **Sistema de Pré-Matrícula (Colégio SEICE):** Desenvolvi o primeiro sistema digital de matrículas da instituição, processando **300+ submissões reais** e integrando dados com a API SPONTE via server-side.
+* **Cost Planner (Simulador Financeiro):** Aplicação para simulação de folha de pagamento escolar, lidando com lógica complexa de cálculos financeiros e exportação de relatórios.
+* **Portfólio Médico:** Landing page de alta performance otimizada para conversão e SEO.
 
 ---
 
-## 🎓 Educação & Fundamentos
+## 🛠 Tecnologias & Ecossistema
 
-* **FATEC Indaiatuba:** Desenvolvimento de Software Multiplataforma (Previsão 2028).
-* **Colégio SEICE:** Técnico em Informática (Concluído 2025).
-* **Fundamentos:** Conclusão do **CS50 (Harvard)**, consolidando base em Algoritmos e Estrutura de Dados.
+### Stack Principal
+`Next.js` • `TypeScript` • `React` • `TailwindCSS` • `Node.js` • `PostgreSQL` • `MySQL`
+
+### Ferramentas e Infra
+`Docker` • `Prisma ORM` • `Git/GitHub` • `REST APIs` • `Python` • `C`
+
+---
+
+## 🎓 Formação
+
+* **FATEC Indaiatuba:** Desenvolvimento de Software Multiplataforma (2028).
+* **Colégio SEICE:** Técnico em Informática (2025).
 
 ---
 
@@ -67,4 +65,4 @@ Plataforma educacional gamificada que integra comunidades e ferramentas de estud
   </a>
 </p>
 
-<p align="center"> <em>Construindo o futuro através do código e da ciência.</em> </p>
+<p align="center"> <em>Sempre em busca de conectar código a soluções reais e descobertas científicas.</em> </p>
