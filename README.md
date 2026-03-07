@@ -1,73 +1,58 @@
 <h1 align="center"> Guilherme Monteiro</h1>
 
 <p align="center">
-  Desenvolvedor de Software Full-Stack • Estudante de Ciência & Tecnologia • Cocriador do ThinkSpace
+  <strong>Software Developer Full-Stack</strong> • Entusiasta de Ciência & Tecnologia • Premiado Nacionalmente
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack_Developer-6F42C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/FEMIC-2° Lugar Exatas-2DA44E?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📌 Sobre mim
+## 📌 Perfil Profissional
 
-Sou **desenvolvedor full-stack** focado na construção de aplicações escaláveis e interfaces de alto desempenho. Minha trajetória é marcada pelo equilíbrio entre a curiosidade científica (física, astronomia e neurociência) e o rigor técnico do desenvolvimento de software.
-
-Sou **cocriador e Front-end Lead Developer do ThinkSpace**, uma plataforma educacional gamificada que conquistou o **2º lugar nacional na FEMIC Jovem (Ciências Exatas)**. Construí minha base de fundamentos através do **CS50 (Harvard)**, o que me proporcionou uma visão sólida sobre algoritmos, estruturas de dados e eficiência de código.
-
-Atualmente, estou aprofundando meus conhecimentos no ecossistema **Node.js empresarial**, explorando arquiteturas modulares com NestJS e gerenciamento de infraestrutura com Docker.
+Desenvolvedor Full-Stack focado na criação de soluções robustas e escaláveis. Minha trajetória combina autonomia técnica com a experiência real de colocar produtos em produção e validar ideias em competições nacionais. Sou movido por desafios que exigem raciocínio lógico profundo e arquitetura de software limpa.
 
 ---
 
-## 🚀 Experiências Principais
+## 🚀 Projetos de Destaque
 
-### 🧠 ThinkSpace — Front-end Lead Developer
-Liderei o desenvolvimento da camada de cliente e a arquitetura de integração de uma plataforma social/educacional completa.
+### 🧠 ThinkSpace — Co-criador & Lead Front-end
+Plataforma educacional gamificada que integra comunidades e ferramentas de estudo.
+* 🏆 **Reconhecimento:** 2º lugar nacional em Ciências Exatas na FEMIC Jovem.
+* **Desafio Técnico:** Implementação de um ecossistema social completo (salas, feeds, rankings) e integração com modelos de **IA (Hugging Face)** para automação de conteúdos.
+* **Arquitetura:** Estruturação de interface reativa utilizando **Atomic Design**, garantindo escalabilidade e reuso de componentes em toda a aplicação.
 
-**Destaques Técnicos:**
-- **Integração E2E:** Conexão integral do Front-end com Back-end via **APIs REST** e fluxos de **IA (Hugging Face)**.
-- **Arquitetura Escalável:** Implementação de componentes reutilizáveis utilizando **Atomic Design** e TypeScript.
-- **UX Reativo:** Interface 100% responsiva com foco em performance e estados assíncronos complexos.
+### 💼 Experiência com Projetos Reais (Remunerados)
 
-**Stack utilizada:** `Next.js`, `TypeScript`, `TailwindCSS`, `Flask`, `MySQL`.
-
----
-
-### 💼 Projetos Independentes & Freelance
-- **Sistema de Pré-Matrícula (Colégio SEICE):** Automação de fluxo escolar com mais de 300 submissões reais integradas via API.
-- **Cost Planner:** Simulador financeiro escolar para processamento de cenários complexos de folha de pagamento.
-- **Landing Pages:** Desenvolvimento de interfaces focadas em conversão e SEO para o setor de saúde.
+* **Sistema de Pré-Matrícula (Colégio SEICE):** Desenvolvi do zero o primeiro sistema digital de matrículas da instituição.
+    * *Resultado:* **300+ submissões reais** em 15 dias e integração total com a **API SPONTE**.
+    * *Foco:* Segurança de dados sensíveis (LGPD) e validação server-side.
+* **Cost Planner — Simulador Financeiro:** Aplicação para gestão de folha de pagamento escolar.
+    * *Foco:* Lógica complexa de cálculos financeiros, manipulação de datas e exportação de relatórios (PDF/CSV).
+* **Medical Portfolio:** Landing page focada em conversão, performance e SEO para o setor de saúde.
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## 🛠 Ecossistema Técnico
 
-### No meu dia a dia
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-</p>
+### Desenvolvimento & Engenharia
+* **Linguagens:** TypeScript, JavaScript, Python, C.
+* **Frameworks & Libs:** Next.js (App Router), React, NestJS, TailwindCSS, Bootstrap.
+* **Backend & Dados:** Node.js, PostgreSQL, MySQL, Prisma ORM, REST APIs.
+* **Infra & Ferramentas:** Docker, Git/GitHub, Vercel, Figma.
 
-### Back-end & Infra (Estudando Atualmente)
-<p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-</p>
+---
 
-### Outras Ferramentas & Fundamentos
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql"/>
-</p>
+## 🎓 Educação & Fundamentos
+
+* **FATEC Indaiatuba:** Desenvolvimento de Software Multiplataforma (Previsão 2028).
+* **Colégio SEICE:** Técnico em Informática (Concluído 2025).
+* **Fundamentos:** Conclusão do **CS50 (Harvard)**, consolidando base em Algoritmos e Estrutura de Dados.
 
 ---
 
@@ -82,4 +67,4 @@ Liderei o desenvolvimento da camada de cliente e a arquitetura de integração d
   </a>
 </p>
 
-<p align="center"> Obrigado pela visita! </p>
+<p align="center"> <em>Construindo o futuro através do código e da ciência.</em> </p>
